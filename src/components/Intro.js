@@ -57,7 +57,7 @@ class Intro extends React.Component {
               <img src={rmk} className="App-logo" alt="logo" />
             </div>
             <h1>Un Pti Démo</h1>
-            <p>Conception,Devleopement ,Deploiement</p>
+            <p>Conception,Développement ,Déploiement </p>
             <p>ReactJs,Golang ,Docker,Minikube</p>
           </section>
           {/* <ul>
